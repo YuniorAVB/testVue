@@ -1,0 +1,13 @@
+$color-primary: #2a65ea;
+$color-secondary: #002f34;
+$color-destacado: #f8dd3c;
+$color-transparent: white;
+$color-secondary2: rgba(0, 47, 52, 0.64);
+
+$font-family: Roboto, Arial, Helvetica, sans-serif;
+
+@mixin display-center($justify: center, $align-items: center) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align-items;
+}
