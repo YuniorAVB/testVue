@@ -1,5 +1,5 @@
 <template>
-  <div class="card">
+  <div class="card" >
     <div class="card__header">
       <span class="card__header__destacado">DESTACADO</span>
       <img class="card__header__img" src="../assets/logo.png" alt />

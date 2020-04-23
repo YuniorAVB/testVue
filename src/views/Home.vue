@@ -4,10 +4,10 @@
     <div class="home__recomendaciones">
       <span class="home__titulo">Nuevas Recomendaciones</span>
       <div class="home__productos">
-        <Item />
-        <Item />
-        <Item />
-        <Item />
+        <Item data-aos="fade-in" />
+        <Item  data-aos="fade-in" />
+        <Item  data-aos="fade-in" />
+        <Item  data-aos="fade-in" />
       </div>
     </div>
   </div>
